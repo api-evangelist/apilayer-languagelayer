@@ -1,0 +1,32 @@
+aid: apilayer-languagelayer
+name: apilayer languagelayer
+description: "Language Detection JSON API supporting 173 languages"
+url: https://languagelayer.com/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Text Analysis"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Text Analysis
+  - Public APIs
+apis:
+  - name: apilayer languagelayer
+    description: "Language Detection JSON API supporting 173 languages"
+    humanURL: https://languagelayer.com/
+    baseURL: https://languagelayer.com/
+    tags:
+      - Text Analysis
+    properties:
+      - type: Documentation
+        url: https://languagelayer.com/
+common:
+  - type: Website
+    url: https://languagelayer.com/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
