@@ -39,7 +39,6 @@ apis:
   - name: apilayer languagelayer
     description: "Language Detection JSON API supporting 173 languages"
     humanURL: https://languagelayer.com/
-    baseURL: https://languagelayer.com/
     tags:
       - Text Analysis
     properties:
